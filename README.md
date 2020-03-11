@@ -18,20 +18,8 @@ TBD - via Heroku
 
 ## Notes
 
-### - 3rd party middleware function from NPM - "morgan"
+### - Used PUG module instead of EJS, at least for now. Issues with EJS. PUB is waay easier.
 
-### - MapBox API
+### - MapBox API - don't know if it's going to work
 
 ### - Routes w/ Postman
-
-Restful Routes
-
-# Action |URL |HTTP Verb |EJS view |mongoose method
-
-1 Index | |GET |index.ejs |.find()
-2 Show | /:id |GET |show.ejs |.findById()
-3 New | /new |GET |new.ejs |none
-4 Create |/addNewTour/ |POST |none |.create(req.body)
-5 Edit | /:id/edit |GET |edit.ejs |.findById()
-6 Update | /:id |PUT |none |.findByIdAndUpdate()
-7 Destroy | /:id |DELETE |none |.findByIdAndDelete()
