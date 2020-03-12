@@ -12,13 +12,11 @@ Website that allows people to see cool places to camp with reviews from real peo
 
 Camping enthusiasts
 
-## The Website
+## Heroku App Link:
 
-TBD - via Heroku
+TBD
 
 ## Notes
-
-### -
 
 ### - MapBox API - don't know if it's going to work
 
