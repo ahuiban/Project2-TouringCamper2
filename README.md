@@ -12,6 +12,8 @@ Website that allows people to see cool places to camp with reviews from real peo
 
 Camping enthusiasts
 
+## Technologie used: HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Postman, Heroku for hosting.
+
 ## Heroku App Link:
 
 TBD
@@ -19,5 +21,3 @@ TBD
 ## Notes
 
 ### - MapBox API - don't know if it's going to work
-
-### - Routes w/ Postman
