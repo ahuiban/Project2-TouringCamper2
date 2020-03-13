@@ -12,7 +12,7 @@ Website that allows people to see cool places to camp with reviews from real peo
 
 Camping enthusiasts
 
-## Technologie used: ### HTML, CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Postman and Heroku for hosting.
+## Technologie used: HTML, CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Postman and Heroku for hosting.
 
 ## Heroku App Link:
 
